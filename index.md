@@ -28,7 +28,7 @@ We will be covering Steps 1 till Step 4 in this module.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/Foundation-of-Data-Science)
 
-<center><img src='https://www.analytixlabs.co.in/blog/data-science-life-cycle'/></center>
+<center><img src="https://www.analytixlabs.co.in/blog/wp-content/uploads/2021/03/blogs-banner-7c-01-scaled-1024x724.jpg"/></center>
 
 ---
 ### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
