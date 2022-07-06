@@ -13,24 +13,22 @@ Below is the link of the repository of my 100 days of coding progress.
 <center><img src="images/100daysofpython.jpg"/></center>
 
 ---
-### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
+### Foundation of Data Science
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+As this is the introduction to Data Science, I learnt the following steps in the data cycle and how to perform data analysis using Excel.
 
-<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
+- Step 1: Business Question
+- Step 2: Data Acquisition
+- Step 3: Data Preparation
+- Step 4: Data Modelling
+- Step 5: Data Visualisation
+- Step 6: Business Decision
 
-<center><img src="images/BERT-classification.png"/></center>
+We will be covering Steps 1 till Step 4 in this module.
 
----
-### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/Foundation-of-Data-Science)
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
-
-<div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
-<br>
-<center><img src="images/fb-food-trends.png"></center>
-<br>
+<center><img src='https://www.analytixlabs.co.in/blog/data-science-life-cycle'/></center>
 
 ---
 ### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
