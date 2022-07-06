@@ -1,1 +1,1 @@
-Check out the minimal portfolio at https://chriskhanhtran.github.io/minimal-portfolio
+This is a minimalist portfolio of my data science journey which started in Febuary 2021.
