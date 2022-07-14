@@ -26,7 +26,7 @@ As this is the introduction to Data Science, I learnt the following steps in the
 
 We will be covering Steps 1 till Step 4 in this module.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/vinothnk.github.io/blob/master/projects/fds-excel.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/Foundation-of-Data-Science)
 
 <center><img src="https://www.analytixlabs.co.in/blog/wp-content/uploads/2021/03/blogs-banner-7c-01-scaled-1024x724.jpg"/></center>
 
