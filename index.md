@@ -37,17 +37,14 @@ In my class for Data Visualisation, we were taught to use visualisation tools li
 
 For my group project, we decide to do a visualisation on the effects of Covid throughout the world.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]https://github.com/vinothnk/Data-Storytelling-with-Visualisation
-
-You can also view the dashboard at the url below.
-
-[![View on Tableau Public](https://img.shields.io/badge/Tableau-View%20on%20Tableau%20Public-brightgreen)https://public.tableau.com/views/CovidDataVisualisation_16579515462230/Storyline?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/Data-Storytelling-with-Visualisation) 
+[![View on Tableau](https://img.shields.io/badge/Tableau-View%20on%20Tableau%20Public-brightgreen)](https://public.tableau.com/views/CovidDataVisualisation_16579515462230/Storyline?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/Foundation-of-Data-Science)
 
-<center><img src="https://www.analytixlabs.co.in/blog/wp-content/uploads/2021/03/blogs-banner-7c-01-scaled-1024x724.jpg"/></center>
+
+<center><img src="https://assets.entrepreneur.com/content/3x2/2000/20190909181947-sale-21635-primary-image-wide.jpeg"/></center>
 
 ---
 <center>© 2022 Vinoth Nanda Kumaran.</center>
