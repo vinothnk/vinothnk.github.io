@@ -6,95 +6,95 @@
   <body>
     <p>Our business question was:
 
-1. How to improve our profits 					
-2. What products should we focus on (Which Market and category, ie machine)
-3. Which products should we drop (That are not profitability)
-4. To predict future economic conditions, trends, or values
-
- 
-# 1 - Using Excel to clean an uncleaned dataset.
-
-We got the dataset of an e-commerce store. As you can see below, it is uncleaned data with categorical and continuous values.
-
-![jpg](Uncleaned%20Data.jpg)
-
-# 2 - Creating a data dictionary.
-
-The recipe for creating a Data Dictionary is as follows:
-- Numbers Treatment
-- Date Treatment
-- IRSRS approach with VLOOKUP()
-
-Such preparation will be useful for Data Modelling and Applications of algorithm.
-
-![jpg](Data%20Dictionary.jpg))
-
-# 3 - Data Preparation - Statistical Validation and Analysis
-
-In this chapter, we learnt about two most common categories of measurements:
-- Measures of Central Tendency
-    • Mean
-    • Mode
-    • Median
-- Measures of Dispersion
-    • Range
-    • Variance
-    • Standard Deviation
-    • Coefficient of Variation
-    
-![jpg](Statistical%20Summary.jpg)
+        1. How to improve our profits 					
+        2. What products should we focus on (Which Market and category, ie machine)
+        3. Which products should we drop (That are not profitability)
+        4. To predict future economic conditions, trends, or values
 
 
-# 4 - Correlation Investigation
+        # 1 - Using Excel to clean an uncleaned dataset.
 
-What is Correlation?
+        We got the dataset of an e-commerce store. As you can see below, it is uncleaned data with categorical and continuous values.
 
-• Correlation summarizes a relationship between variables.
-• Correlation coefficient is the statistics that shows the strength of the relationship
-• Correlations are useful because they can indicate a predictive relationship that can be used in practice.
+        ![jpg](Uncleaned%20Data.jpg)
 
-![jpg](Correlation%20Matrix.jpg)
+        # 2 - Creating a data dictionary.
 
-We can see that Profit per Unit is correlated to Profit and Unit Cost is correlated to Sales.
+        The recipe for creating a Data Dictionary is as follows:
+        - Numbers Treatment
+        - Date Treatment
+        - IRSRS approach with VLOOKUP()
 
+        Such preparation will be useful for Data Modelling and Applications of algorithm.
 
-# 5 - Trendline Regression
+        ![jpg](Data%20Dictionary.jpg))
 
-Regression analysis is used to estimate the strength and the direction of the relationship between two linearly related variables: X and Y. 
-X is the “ independent ” variable and Y is the “ dependent ” variable.
+        # 3 - Data Preparation - Statistical Validation and Analysis
 
-![jpg](Profit%20vs%20Sales%20Trendline.jpg)
+        In this chapter, we learnt about two most common categories of measurements:
+        - Measures of Central Tendency
+            • Mean
+            • Mode
+            • Median
+        - Measures of Dispersion
+            • Range
+            • Variance
+            • Standard Deviation
+            • Coefficient of Variation
 
-Based on the above trendline analysis, we can assume that for every 1 unit of X, Y will increase by 1.735.
-If X = 0, the intial value of Y will be $208.75.
-
-
-# 6 - Test of Significance for Individual Parameters
-
-What is P Value?
-
-The P Value is the probability that the assumptions from the status quo (null hypothesis) is true by default.
-The probability of observing sample data at least as extreme as the actually obtained test statistic.
-
-Small p values provide evidence against the null hypothesis.
-
-The smaller (closer to 0) the p value, the stronger is the evidence against the null hypothesis.
-
-![image](https://user-images.githubusercontent.com/108440564/177555587-bb7cf272-dc8a-4a24-bcd3-c64680d54481.png)
+        ![jpg](Statistical%20Summary.jpg)
 
 
-Here, we reject Quantity and Delivery Lag Time as both P-Values are above 0.05.
-![P-Value](https://user-images.githubusercontent.com/108440564/177555658-8ef176b2-3c8b-485a-8a9d-13d1c91b92c1.jpg)
+        # 4 - Correlation Investigation
 
-# 7 - Multiple Linear Regression
+        What is Correlation?
 
-![image](https://user-images.githubusercontent.com/108440564/177556763-4eed3a03-f627-4537-a61b-9d94b161514b.png)
+        • Correlation summarizes a relationship between variables.
+        • Correlation coefficient is the statistics that shows the strength of the relationship
+        • Correlations are useful because they can indicate a predictive relationship that can be used in practice.
 
-Based on our dataset for the E-Commerce store, we can say that there is a 92% accuracy whilst using MLR.
+        ![jpg](Correlation%20Matrix.jpg)
 
-The formula would be:
+        We can see that Profit per Unit is correlated to Profit and Unit Cost is correlated to Sales.
 
-y = 2.727ppu + 0.237s - 0.99cpu</p>
+
+        # 5 - Trendline Regression
+
+        Regression analysis is used to estimate the strength and the direction of the relationship between two linearly related variables: X and Y. 
+        X is the “ independent ” variable and Y is the “ dependent ” variable.
+
+        ![jpg](Profit%20vs%20Sales%20Trendline.jpg)
+
+        Based on the above trendline analysis, we can assume that for every 1 unit of X, Y will increase by 1.735.
+        If X = 0, the intial value of Y will be $208.75.
+
+
+        # 6 - Test of Significance for Individual Parameters
+
+        What is P Value?
+
+        The P Value is the probability that the assumptions from the status quo (null hypothesis) is true by default.
+        The probability of observing sample data at least as extreme as the actually obtained test statistic.
+
+        Small p values provide evidence against the null hypothesis.
+
+        The smaller (closer to 0) the p value, the stronger is the evidence against the null hypothesis.
+
+        ![image](https://user-images.githubusercontent.com/108440564/177555587-bb7cf272-dc8a-4a24-bcd3-c64680d54481.png)
+
+
+        Here, we reject Quantity and Delivery Lag Time as both P-Values are above 0.05.
+        ![P-Value](https://user-images.githubusercontent.com/108440564/177555658-8ef176b2-3c8b-485a-8a9d-13d1c91b92c1.jpg)
+
+        # 7 - Multiple Linear Regression
+
+        ![image](https://user-images.githubusercontent.com/108440564/177556763-4eed3a03-f627-4537-a61b-9d94b161514b.png)
+
+        Based on our dataset for the E-Commerce store, we can say that there is a 92% accuracy whilst using MLR.
+
+        The formula would be:
+
+        y = 2.727ppu + 0.237s - 0.99cpu</p>
   </body>
 </html>
 
