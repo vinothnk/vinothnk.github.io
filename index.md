@@ -86,4 +86,36 @@ After doing our research, we found the Enron emails dataset with around 500k ema
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://vinothnk.github.io/Data-Wrangling-with-Programming-2/)
 <center><img src="https://storage.googleapis.com/kaggle-datasets-images/55/110/b720c0cc3f965a27a2b2bfae3c815f1f/dataset-card.png"/></center>
 ---
+
+
+### Data Validation and Statistical Analysis
+
+Statistics are integral for a data analyst/scientist as explained by my lecturer. He mentioned that one may kick off a DS project with a judgemental approach to deciding which approach or technique will suit the project.
+
+The use of statistics is an alternative to make DS a more systematic yet organised approach in terms of being critical and getting objective, data-driven scientific enquiries.
+
+With stats, the data could be validated and required analysis can be conducted.
+
+My group selected the IBM HR data as our dataset.
+
+--------------------------------------------------------
+***Parametric Test between Monthly Income and Gender***
+
+We were allowed to use any dataset for this project. We chose Human Resources as one of my group mate was from a HR department and he would have more insight as to how we can use HR data.
+
+We decided to go with Montly Income and Gender as our variables for analysis if there was a disparity between Monthly Income and your gender.
+
+[![View on Kaggle](https://img.shields.io/badge/Kaggle-View%20on%20Kaggle-orange)](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://vinothnk.github.io/Data-Validation-Statistical-Analysis---Parametric/)
+
+--------------------------------------------------------
+***Non-Parametric Test between WorkLifeBalance and MonthlyIncome***
+
+Given that everyone craves and wanted work life balance, we focused on WorkLifeBalance and MonthlyIncome as our variables for the Non-Parametric tests.
+
+The results should let us know if there is any work life balance based on your monthly income.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://vinothnk.github.io/Data-Validation-Statistical-Analysis-Non-Parametric/)
+
+---
 <center>© 2022 Vinoth Nanda Kumaran.</center>
