@@ -1,47 +1,55 @@
-# Portfolio
----
-## Python
+# Portfolio 
 
-### Udemy - 100 Days of Coding by Angela Yu
+This is the progress of my work and projects I have completed as of now. I do hope to add more projects in my professional portfolio.
+------------------------------------------------------------------
 
-An ongoing process in my journey to learning Python. Even though I had learnt python during my course in SUTD, working full time whilst studying part time did not allow me to fully concentrate on the lessons, with family commitments on the side as well as Covid. Hence, I decided to restart learning python to ensure I understand the basic principles of python. 
+### Data Science Modelling
 
-Below is the link of the repository of my 100 days of coding progress.
+In my final module in Data Science, we learnt about ***K-Means clustering, PCA and ML Train-Test Algorithms***. 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/100-Days-of-Coding)
+For our project, we were advised to apply our knowledge of what we learnt throughout our time in SUTD onto a dataset.
 
-<center><img src="images/100daysofpython.jpg"/></center>
+For purposes of achieving a better understanding, we were advised to use previous datasets. We continued with the IBM HR data.
 
----
-### Foundation of Data Science
-
-As this is the introduction to Data Science, I learnt the following steps in the data cycle and how to perform data analysis using Excel.
-
-- Step 1: Business Question
-- Step 2: Data Acquisition
-- Step 3: Data Preparation
-- Step 4: Data Modelling
-- Step 5: Data Visualisation
-- Step 6: Business Decision
-
-We will be covering Steps 1 till Step 4 in this module.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/Foundation-of-Data-Science)
-
-<center><img src="https://www.analytixlabs.co.in/blog/wp-content/uploads/2021/03/blogs-banner-7c-01-scaled-1024x724.jpg"/></center>
-
----
-### Data Visualisation
-
-In my class for Data Visualisation, we were taught to use visualisation tools like Tableau and PowerBI.
-
-For my group project, we decide to do a visualisation on the effects of Covid throughout the world.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/Data-Storytelling-with-Visualisation) 
-[![View on Tableau](https://img.shields.io/badge/Tableau-View%20on%20Tableau%20Public-brightgreen)](https://public.tableau.com/views/CovidDataVisualisation_16579515462230/Storyline?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://vinothnk.github.io/Data-Science-Modelling/)
 
 
-<center><img src="https://assets.entrepreneur.com/content/3x2/2000/20190909181947-sale-21635-primary-image-wide.jpeg"/></center>
+Below is the pipeline we followed for our capstone project for the ***ModularMaster Certificate in Data Science*** course.
+<center><img src="https://www.aismartz.com/blog/wp-content/uploads/2019/11/Electronic-Design-Automation-data-science-model.jpg"/></center>
+
+------------------------------------------------------------------
+
+### Data Validation and Statistical Analysis
+
+Statistics are integral for a data analyst/scientist as explained by my lecturer. He mentioned that one may kick off a DS project with a judgemental approach to deciding which approach or technique will suit the project.
+
+The use of statistics is an alternative to make DS a more systematic yet organised approach in terms of being critical and getting objective, data-driven scientific enquiries.
+
+With stats, the data could be validated and required analysis can be conducted.
+
+My group selected the IBM HR data as our dataset.
+
+[![View on Kaggle](https://img.shields.io/badge/Kaggle-View%20on%20Kaggle-orange)](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+
+------------------------------------------------------------------
+
+***Parametric Test between Monthly Income and Gender***
+
+We were allowed to use any dataset for this project. We chose Human Resources as one of my group mate was from a HR department and he would have more insight as to how we can use HR data.
+
+We decided to go with Montly Income and Gender as our variables for analysis if there was a disparity between Monthly Income and your gender.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://vinothnk.github.io/Data-Validation-Statistical-Analysis---Parametric/)
+
+------------------------------------------------------------------
+
+***Non-Parametric Test between WorkLifeBalance and MonthlyIncome***
+
+Given that everyone craves and wanted work life balance, we focused on WorkLifeBalance and MonthlyIncome as our variables for the Non-Parametric tests.
+
+The results should let us know if there is any work life balance based on your monthly income.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://vinothnk.github.io/Data-Validation-Statistical-Analysis-Non-Parametric/)
 
 ---
 
@@ -85,37 +93,50 @@ After doing our research, we found the Enron emails dataset with around 500k ema
 [![View on Kaggle](https://img.shields.io/badge/Kaggle-View%20on%20Kaggle-orange)](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://vinothnk.github.io/Data-Wrangling-with-Programming-2/)
 <center><img src="https://storage.googleapis.com/kaggle-datasets-images/55/110/b720c0cc3f965a27a2b2bfae3c815f1f/dataset-card.png"/></center>
----
+
+------------------------------------------------------------------
+
+### Data Visualisation
+
+In my class for Data Visualisation, we were taught to use visualisation tools like Tableau and PowerBI.
+
+For my group project, we decide to do a visualisation on the effects of Covid throughout the world.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/Data-Storytelling-with-Visualisation) 
+[![View on Tableau](https://img.shields.io/badge/Tableau-View%20on%20Tableau%20Public-brightgreen)](https://public.tableau.com/views/CovidDataVisualisation_16579515462230/Storyline?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
-### Data Validation and Statistical Analysis
+<center><img src="https://assets.entrepreneur.com/content/3x2/2000/20190909181947-sale-21635-primary-image-wide.jpeg"/></center>
 
-Statistics are integral for a data analyst/scientist as explained by my lecturer. He mentioned that one may kick off a DS project with a judgemental approach to deciding which approach or technique will suit the project.
+------------------------------------------------------------------
 
-The use of statistics is an alternative to make DS a more systematic yet organised approach in terms of being critical and getting objective, data-driven scientific enquiries.
+### Foundation of Data Science
 
-With stats, the data could be validated and required analysis can be conducted.
+As this is the introduction to Data Science, I learnt the following steps in the data cycle and how to perform data analysis using Excel.
 
-My group selected the IBM HR data as our dataset.
+- Step 1: Business Question
+- Step 2: Data Acquisition
+- Step 3: Data Preparation
+- Step 4: Data Modelling
+- Step 5: Data Visualisation
+- Step 6: Business Decision
 
---------------------------------------------------------
-***Parametric Test between Monthly Income and Gender***
+We will be covering Steps 1 till Step 4 in this module.
 
-We were allowed to use any dataset for this project. We chose Human Resources as one of my group mate was from a HR department and he would have more insight as to how we can use HR data.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/Foundation-of-Data-Science)
 
-We decided to go with Montly Income and Gender as our variables for analysis if there was a disparity between Monthly Income and your gender.
+<center><img src="https://www.analytixlabs.co.in/blog/wp-content/uploads/2021/03/blogs-banner-7c-01-scaled-1024x724.jpg"/></center>
 
-[![View on Kaggle](https://img.shields.io/badge/Kaggle-View%20on%20Kaggle-orange)](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://vinothnk.github.io/Data-Validation-Statistical-Analysis---Parametric/)
+------------------------------------------------------------------
 
---------------------------------------------------------
-***Non-Parametric Test between WorkLifeBalance and MonthlyIncome***
+## Python
 
-Given that everyone craves and wanted work life balance, we focused on WorkLifeBalance and MonthlyIncome as our variables for the Non-Parametric tests.
+### Udemy - 100 Days of Coding by Angela Yu
 
-The results should let us know if there is any work life balance based on your monthly income.
+An ongoing process in my journey to learning Python. Even though I had learnt python during my course in SUTD, working full time whilst studying part time did not allow me to fully concentrate on the lessons, with family commitments on the side as well as Covid. Hence, I decided to restart learning python to ensure I understand the basic principles of python. 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://vinothnk.github.io/Data-Validation-Statistical-Analysis-Non-Parametric/)
+Below is the link of the repository of my 100 days of coding progress.
 
----
-<center>© 2022 Vinoth Nanda Kumaran.</center>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/100-Days-of-Coding)
+
+<center><img src="images/100daysofpython.jpg"/></center>
