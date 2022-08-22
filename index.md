@@ -3,6 +3,17 @@
 This is the progress of my work and projects I have completed as of now. I do hope to add more projects in my professional portfolio.
 ------------------------------------------------------------------
 
+### European Championship 2016 - SQL Database
+
+I was told that I needed to learn SQL. Hence, I did a short course on SQL on UDACITY. 
+
+I then used the Euro 2016 database to practice my SQL querying and joins.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/European-Football-Database)
+
+
+------------------------------------------------------------------
+
 ### Data Science Modelling
 
 In my final module in Data Science, we learnt about ***K-Means clustering, PCA and ML Train-Test Algorithms***. 
