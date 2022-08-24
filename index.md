@@ -4,6 +4,19 @@ This is the progress of my work and projects I have completed as of now. I do ho
 
 ------------------------------------------------------------------
 
+### SQL Exercises - Wikibooks
+
+I also found SQL exercises on wikibooks to continue practicing my knowledge on SQL.
+
+
+### The Computer Store
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/SQL-The-Computer-Store)
+
+![image](https://user-images.githubusercontent.com/108440564/186325476-53c2b583-d8b2-44b2-aa87-3ea3b9ba0b0f.png)
+
+------------------------------------------------------------------
+
 ### SQL With Danny Ma
 
 I found Danny Ma on Linkedin. https://www.linkedin.com/company/datawithdanny/ 
