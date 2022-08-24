@@ -6,25 +6,41 @@ This is the progress of my work and projects I have completed as of now. I do ho
 
 ### SQL With Danny Ma
 
-### Case Study 1: Danny's Diner
-
 I found Danny Ma on Linkedin. https://www.linkedin.com/company/datawithdanny/ 
 
 I followed his page and found case studies for SQL. Continuing to put to practice of my SQL knowledge.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/European-Football-Database)
-<center><img src="https://user-images.githubusercontent.com/98699089/156034616-ef978d44-af18-4e54-9885-1ac376a009bf.png"/></center>
+![image](https://user-images.githubusercontent.com/108440564/186323263-e92e194b-8d62-41d6-b9f3-9b0dec12e9d4.png)
 
 
 ------------------------------------------------------------------
 
+### Case Study 1: Danny's Diner
+
+The first is of a diner whereby Danny sells 3 of his favourite foods, sushi, ramen and curry. We analyse the dataset with SQL and proceed to answer questions which will help him in his business.
+
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/SQL-Case-Studies/blob/main/README.md#-case-study-1---dannys-diner)
+<center><img src="https://user-images.githubusercontent.com/108440564/186323740-33e7777b-80ba-4b5f-9d89-6122d50200ff.png"/></center>
+
+------------------------------------------------------------------
+
+### Case Study 2: Pizza Runner
+
+In order to expand his business, Danny decided to hire pizza runners to help him deliver his pizzas as the demand for pizzas increase! Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runner Headquarters (otherwise known as Danny’s house) and also maxed out his credit card to pay freelance developers to build a mobile app to accept orders from customers.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/SQL-Case-Studies/blob/main/README.md#-case-study-2---pizza-runner)
+<center><img src="https://user-images.githubusercontent.com/108440564/186323609-3ac15bc8-f83f-448f-a7da-f5c39cb73f33.png"/></center>
+
+------------------------------------------------------------------
+
+I was told that I needed to learn SQL. Hence, I did a short course on SQL on UDACITY. What better way to practice my SQL than to try and analyse a dataset with SQL on the EUROS 2016?
+
 ### European Championship 2016 - SQL Database
 
-I was told that I needed to learn SQL. Hence, I did a short course on SQL on UDACITY. 
+I have got around 80 odd questions about the European Championships from 2016 to practice my SQL knowledge.
 
-I then used the Euro 2016 database to practice my SQL querying and joins.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/European-Football-Database)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]()
 <center><img src="https://hongkong.consulfrance.org/IMG/arton10094.jpg?1464315767"/></center>
 
 
