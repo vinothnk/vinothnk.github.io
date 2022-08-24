@@ -1,6 +1,21 @@
 # Portfolio 
 
 This is the progress of my work and projects I have completed as of now. I do hope to add more projects in my professional portfolio.
+
+------------------------------------------------------------------
+
+### SQL With Danny Ma
+
+### Case Study 1: Danny's Diner
+
+I found Danny Ma on Linkedin. https://www.linkedin.com/company/datawithdanny/ 
+
+I followed his page and found case studies for SQL. Continuing to put to practice of my SQL knowledge.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/European-Football-Database)
+<center><img src="https://user-images.githubusercontent.com/98699089/156034616-ef978d44-af18-4e54-9885-1ac376a009bf.png"/></center>
+
+
 ------------------------------------------------------------------
 
 ### European Championship 2016 - SQL Database
