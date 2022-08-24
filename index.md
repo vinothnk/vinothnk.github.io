@@ -10,6 +10,7 @@ I was told that I needed to learn SQL. Hence, I did a short course on SQL on UDA
 I then used the Euro 2016 database to practice my SQL querying and joins.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/European-Football-Database)
+<center><img src="https://hongkong.consulfrance.org/IMG/arton10094.jpg?1464315767"/></center>
 
 
 ------------------------------------------------------------------
