@@ -12,7 +12,7 @@ I have an interest in gaming since young. Add that to football and analytics, I 
 
 ![image](https://www.psu.com/wp/wp-content/uploads/2022/10/FIFA23-2.jpeg)
 
-
+------------------------------------------------------------------
 
 ### The Computer Store
 
