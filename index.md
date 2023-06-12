@@ -73,7 +73,7 @@ I was told that I needed to learn SQL. Hence, I did a short course on SQL on UDA
 
 I have got around 80 odd questions about the European Championships from 2016 to practice my SQL knowledge.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]()
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/European-Football-Database)
 <center><img src="https://hongkong.consulfrance.org/IMG/arton10094.jpg?1464315767"/></center>
 
 
