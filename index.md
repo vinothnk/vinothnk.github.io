@@ -4,6 +4,16 @@ This is the progress of my work and projects I have completed as of now. I do ho
 
 ------------------------------------------------------------------
 
+### Analysing Singapore Premier League Season 2021/2022 - Tableau 
+
+Being a data analyst in football is my dream job. Gaining insights/patterns/trends from data can help a team win or lose a game. I decided to look at teams in the Singapore Premier League during the season 2021/2022 and see how they performed.
+
+[![View on Tableau](https://img.shields.io/badge/Tableau-View%20on%20Tableau%20Public-brightgreen)](https://public.tableau.com/app/profile/vinoth.nanda.kumaran.sg/viz/SingaporePremierLeague-2022SeasonAnalysis/Story1)
+
+![image](https://i.ytimg.com/vi/26JLRuDyV-g/maxresdefault.jpg)
+
+------------------------------------------------------------------
+
 ### Extracting data from an image using OpenCV and PyTesseract 
 
 I have an interest in gaming since young. Add that to football and analytics, I decided to analyse how my team performs. And since there is no data collection in game, I had to extract out data from an image and then convert it to a DataFrame before analysing.
