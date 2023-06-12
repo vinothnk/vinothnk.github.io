@@ -4,6 +4,25 @@ This is the progress of my work and projects I have completed as of now. I do ho
 
 ------------------------------------------------------------------
 
+### Extracting data from an image using OpenCV and PyTesseract 
+
+I have an interest in gaming since young. Add that to football and analytics, I decided to analyse how my team performs. And since there is no data collection in game, I had to extract out data from an image and then convert it to a DataFrame before analysing.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/FIFA-23-Stats-Extraction)
+
+![image](https://www.psu.com/wp/wp-content/uploads/2022/10/FIFA23-2.jpeg)
+
+
+
+### The Computer Store
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/SQL-The-Computer-Store)
+
+![image](https://user-images.githubusercontent.com/108440564/186325476-53c2b583-d8b2-44b2-aa87-3ea3b9ba0b0f.png)
+
+
+------------------------------------------------------------------
+
 ### SQL Exercises - Wikibooks
 
 I also found SQL exercises on wikibooks to continue practicing my knowledge on SQL.
