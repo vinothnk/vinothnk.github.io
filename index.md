@@ -8,8 +8,7 @@ This is the progress of my work and projects I have completed as of now. I do ho
 
 Being a data analyst in football is my dream job. Gaining insights/patterns/trends from data can help a team win or lose a game. I decided to look at teams in the Singapore Premier League during the season 2021/2022 and see how they performed.
 
-[![View on Tableau](https://img.shields.io/badge/Tableau-View%20on%20Tableau%20Public-brightgreen)]
-(https://public.tableau.com/app/profile/vinoth.nanda.kumaran/viz/SingaporePremierLeague-2022SeasonAnalysis_16893830820560/SPLSeason20212022Analysis)
+[![View on Tableau](https://img.shields.io/badge/Tableau-View%20on%20Tableau%20Public-brightgreen)](https://public.tableau.com/app/profile/vinoth.nanda.kumaran/viz/SingaporePremierLeague-2022SeasonAnalysis_16893830820560/SPLSeason20212022Analysis)
 
 ![image](https://i.ytimg.com/vi/26JLRuDyV-g/maxresdefault.jpg)
 
