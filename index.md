@@ -3,6 +3,15 @@
 This is the progress of my work and projects I have completed as of now. I do hope to add more projects in my professional portfolio.
 
 ------------------------------------------------------------------
+### Generation Singapore - Junior Data Engineer Bootcamp - Interim Project
+
+### End to End Data Engineering Project
+
+In this project, my group and myself had hands-on experience on how to build an End to End Data Engineering pipeline. We use Python for data cleaning and creating a script to upload the data onto PgAdmin to do querying.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/JDE-Interim-Project)
+
+------------------------------------------------------------------
 
 ### Analysing Singapore Premier League Season 2021/2022 - Tableau 
 
