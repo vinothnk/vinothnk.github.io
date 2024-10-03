@@ -9,6 +9,9 @@ This is the progress of my work and projects I have completed as of now. I do ho
 
 In the final project, my group and myself had to build a pipeline for the ETL process. This pipeline was done in Microsoft Azure platform, with us utilizing containers, data lakes, DataBricks, Synapse Analytics & PowerBI.
 
+![ETL Pipeline](https://github.com/user-attachments/assets/94342a23-24c5-45d0-9bee-dd75466389d6)
+
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/JDE-Final-Project)
 
 ------------------------------------------------------------------
@@ -17,6 +20,9 @@ In the final project, my group and myself had to build a pipeline for the ETL pr
 ### End to End Data Engineering Project
 
 In this project, my group and myself had hands-on experience on how to build an End to End Data Engineering pipeline. We use Python for data cleaning and creating a script to upload the data onto PgAdmin to do querying.
+
+![image](https://github.com/user-attachments/assets/ef1fc077-1c53-41d5-9618-335eab85b1b8)
+
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/JDE-Interim-Project)
 
