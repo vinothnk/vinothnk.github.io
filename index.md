@@ -3,6 +3,15 @@
 This is the progress of my work and projects I have completed as of now. I do hope to add more projects in my professional portfolio.
 
 ------------------------------------------------------------------
+### Generation Singapore - Junior Data Engineer Bootcamp - Final Project
+
+### End to End Data Engineering Project - E-Commerce Store Analysis
+
+In the final project, my group and myself had to build a pipeline for the ETL process. This pipeline was done in Microsoft Azure platform, with us utilizing containers, data lakes, DataBricks, Synapse Analytics & PowerBI.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinothnk/JDE-Final-Project)
+
+------------------------------------------------------------------
 ### Generation Singapore - Junior Data Engineer Bootcamp - Interim Project
 
 ### End to End Data Engineering Project
